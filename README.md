@@ -1,4 +1,5 @@
 # **GA-MerchInsightsStream**
+![](images/project_logo.png)
 
 ## **Project Overview**
 
