@@ -53,3 +53,5 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone https://github.com/Bestine/GA-MerchInsightsStream.git
    cd GA-MerchInsightsStream
+
+The API service will change from Google Analytics 4 to AlphaVintage
