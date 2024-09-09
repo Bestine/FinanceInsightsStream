@@ -1,5 +1,4 @@
-# **GA-MerchInsightsStream**
-![](images/project_logo.png)
+# **FinanceInsightsStream**
 
 ## **Project Overview**
 
@@ -7,7 +6,7 @@
 
 ## **Project Objectives**
 
-- **Data Extraction**: Pull data from Google Analytics (Google Merchandise Store) using the Google Analytics API.
+- **Data Extraction**: Pull data from AlphaVintage using the Google Analytics API.
 - **Data Storage**: Store the extracted data in a PostgreSQL database for efficient querying and analysis.
 - **Data Orchestration**: Automate the data extraction and loading process using Apache Airflow.
 - **Data Visualization**: Develop interactive dashboards using Streamlit to analyze and present insights from the data.
@@ -52,6 +51,5 @@ Before you begin, ensure you have the following installed:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Bestine/GA-MerchInsightsStream.git
-   cd GA-MerchInsightsStream
-
-The API service will change from Google Analytics 4 to AlphaVintage
+   cd AlphaVintageInsightsStream
+   ```
